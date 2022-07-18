@@ -1,0 +1,22 @@
+{
+  "name": "js211_bankaccount",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxw74/JS211_BankAccount.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxw74/JS211_BankAccount/issues"
+  },
+  "homepage": "https://github.com/mxw74/JS211_BankAccount#readme",
+  "dependencies": {
+    "mocha": "^10.0.0"
+  }
+}
